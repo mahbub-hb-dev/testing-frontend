@@ -1,6 +1,6 @@
 import Search from '@/components/modules/search/Search'
 import { Button } from '@/components/ui/button'
-import Logo from '@/components/ui/logo'
+import Logo from '@/components/ui/Logo'
 import { ModeToggle } from '@/components/ui/mode-toggler'
 import { NavigationSheet } from '@/components/ui/navigation-sheet'
 import { NavMenu } from '@/components/ui/navMenu'
